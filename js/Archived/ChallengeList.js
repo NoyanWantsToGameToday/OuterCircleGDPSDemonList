@@ -156,7 +156,7 @@ export default {
                         The recording must have either source audio or clicks (visual tap indication if on mobile) for the record to be validated. Edited audio does not count.
                     </p>
                     <p>
-                        Complete raw footage is required alongside your record for any layouts in Extreme Tier or above.
+                        Complete raw footage is required alongside your record for any Demons in Extreme Tier or above.
                     </p>
                     <p>
                         The recording must have a previous attempt and death animation shown before the completion, unless the completion is on the first attempt.
@@ -175,40 +175,40 @@ export default {
                     <h4></h4>
                     <h4>DIFFICULTY RANKINGS</h4>
                     <p>
-                        Impossible Layout = Top Extreme Demons (1000 Points)
+                        Impossible Demon = Top Extreme Demons (1000 Points)
                     </p>
                     <p>
-                        Silent Layout = Remorseless/Relentless Extreme Demons (500 Points)
+                        Silent Demon = Remorseless/Relentless Extreme Demons (500 Points)
                     </p>
                     <p>
-                        Legendary Layout = Insane/Extreme Extreme Demons (350 Points)
+                        Legendary Demon = Insane/Extreme Extreme Demons (350 Points)
                     </p>
                     <p>
-                        Ethereal Layout = Hard/Very Hard Extreme Demons (250 Points)
+                        Ethereal Demon = Hard/Very Hard Extreme Demons (250 Points)
                     </p>
                     <p>
-                        Supreme Layout = Easy/Medium Extreme Demons (200 Points)
+                        Supreme Demon = Easy/Medium Extreme Demons (200 Points)
                     </p>
                     <p>
-                        Extreme Layout = Beginner Extreme Demons (150 Points)
+                        Extreme Demon = Beginner Extreme Demons (150 Points)
                     </p>
                     <p>
-                        Mythical Layout = High Insane Demons (100 Points)
+                        Mythical Demon = High Insane Demons (100 Points)
                     </p>
                     <p>
-                        Insane Layout = Insane Demons (75 Points)
+                        Insane Demon = Insane Demons (75 Points)
                     </p>
                     <p>
-                        Hard Layout = Hard Demons (50 Points)
+                        Hard Demon = Hard Demons (50 Points)
                     </p>
                     <p>
-                        Medium Layout = Medium Demons (25 Points)
+                        Medium Demon = Medium Demons (25 Points)
                     </p>
                     <p>
-                        Easy Layout = Easy Demons (10 Points)
+                        Easy Demon = Easy Demons (10 Points)
                     </p>
                     <p>
-                        Beginner Layout = Non Demons (5 Points)
+                        Beginner Demon = Non Demons (5 Points)
                     </p>
                 </div>
             </div>
