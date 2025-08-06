@@ -156,7 +156,7 @@ export default {
                         The recording must have either source audio or clicks (visual tap indication if on mobile) for the record to be validated. Edited audio does not count.
                     </p>
                     <p>
-                        Complete raw footage is required alongside your record for any Demons in Extreme Tier or above.
+                        Complete raw footage is required alongside your record for any Levels in Extreme Tier or above.
                     </p>
                     <p>
                         The recording must have a previous attempt and death animation shown before the completion, unless the completion is on the first attempt.
@@ -175,40 +175,40 @@ export default {
                     <h4></h4>
                     <h4>DIFFICULTY RANKINGS</h4>
                     <p>
-                        Impossible Demon = Top Extreme Demons (1000 Points)
+                        Impossible Level = Top Extreme Levels (1000 Points)
                     </p>
                     <p>
-                        Silent Demon = Remorseless/Relentless Extreme Demons (500 Points)
+                        Silent Level = Remorseless/Relentless Extreme Levels (500 Points)
                     </p>
                     <p>
-                        Legendary Demon = Insane/Extreme Extreme Demons (350 Points)
+                        Legendary Level = Insane/Extreme Extreme Levels (350 Points)
                     </p>
                     <p>
-                        Ethereal Demon = Hard/Very Hard Extreme Demons (250 Points)
+                        Ethereal Level = Hard/Very Hard Extreme Levels (250 Points)
                     </p>
                     <p>
-                        Supreme Demon = Easy/Medium Extreme Demons (200 Points)
+                        Supreme Level = Easy/Medium Extreme Levels (200 Points)
                     </p>
                     <p>
-                        Extreme Demon = Beginner Extreme Demons (150 Points)
+                        Extreme Level = Beginner Extreme Levels (150 Points)
                     </p>
                     <p>
-                        Mythical Demon = High Insane Demons (100 Points)
+                        Mythical Level = High Insane Levels (100 Points)
                     </p>
                     <p>
-                        Insane Demon = Insane Demons (75 Points)
+                        Insane Level = Insane Levels (75 Points)
                     </p>
                     <p>
-                        Hard Demon = Hard Demons (50 Points)
+                        Hard Level = Hard Levels (50 Points)
                     </p>
                     <p>
-                        Medium Demon = Medium Demons (25 Points)
+                        Medium Level = Medium Levels (25 Points)
                     </p>
                     <p>
-                        Easy Demon = Easy Demons (10 Points)
+                        Easy Level = Easy Levels (10 Points)
                     </p>
                     <p>
-                        Beginner Demon = Non Demons (5 Points)
+                        Beginner Level = Non Levels (5 Points)
                     </p>
                 </div>
             </div>

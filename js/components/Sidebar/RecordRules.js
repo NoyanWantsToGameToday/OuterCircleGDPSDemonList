@@ -12,7 +12,7 @@ export default {
                 Records for completions must have clicks or visual tap indication (source audio is acceptable for iPhone users). If you cant record clicks, ZCB is allowed (Click sounds should be loud enough to be heard differently from the music/song)
             </p>
             <p>
-                Complete raw footage is required alongside your record for any Demons in Extreme Tier or above.
+                Complete raw footage is required alongside your record for any Levels in Extreme Tier or above.
             </p>
             <p>
                 The recording must have a previous attempt and death animation shown before the completion, unless the completion is on the first attempt.

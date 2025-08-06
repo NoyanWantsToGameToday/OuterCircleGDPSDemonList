@@ -3,31 +3,31 @@ export default {
         <h3>Difficulty Rankings</h3>
         <div class="right-text">
             <p>
-                Silent Demon = Top Extreme Demons (401 to 750 Points)
+                Silent Level = Top Extreme Levels (401 to 750 Points)
             </p>
             <p>
-                Legendary Demon = Mid Extreme Demons (201 to 400 Points)
+                Legendary Level = Mid Extreme Levels (201 to 400 Points)
             </p>
             <p>
-                Extreme Demon = Beginner Extreme Demons (101 to 200 Points)
+                Extreme Level = Beginner Extreme Levels (101 to 200 Points)
             </p>
             <p>
-                Mythical Demon = High Insane Demons (71 to 100 Points)
+                Mythical Level = High Insane Levels (71 to 100 Points)
             </p>
             <p>
-                Insane Demon = Insane Demons (41 to 70 Points)
+                Insane Level = Insane Levels (41 to 70 Points)
             </p>
             <p>
-                Hard Demon = Hard Demons (21 to 40 Points)
+                Hard Level = Hard Levels (21 to 40 Points)
             </p>
             <p>
-                Medium Demon = Medium Demons (11 to 20 Points)
+                Medium Level = Medium Levels (11 to 20 Points)
             </p>
             <p>
-                Easy Demon = Easy Demons (6 to 10 Points)
+                Easy Level = Easy Levels (6 to 10 Points)
             </p>
             <p>
-                Beginner Demon = Non Demons (1 to 5 Points)
+                Beginner Level = Non Levels (1 to 5 Points)
             </p>
         </div>
     `
