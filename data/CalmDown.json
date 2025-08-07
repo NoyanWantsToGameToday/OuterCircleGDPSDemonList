@@ -13,11 +13,11 @@
     "records": [
         {
             "user": "Nobody",
-            "link": "",
-            "percent": 0,
-            "hz": 0,
+            "link": "https://www.youtube.com/watch?v=g7y9a8xXUFI",
+            "percent": 100,
+            "hz": 120,
             "mobile": false,
-            "enjoyment": 0
+            "enjoyment": 3
         }
     ]
 }
