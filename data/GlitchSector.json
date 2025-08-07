@@ -1,0 +1,23 @@
+{
+    "id": 103,
+    "name": "Glitch Sector",
+    "creators": [
+        "Noyan"
+    ],
+    "verifier": "UncurledCrown7",
+    "verification": "https://www.youtube.com/watch?v=SAKg-dcp82U",
+    "percentToQualify": 35,
+    "song": "The True Hero - DoTeRqwe",
+    "difficulty": 3,
+    "enjoyment": 10,
+    "records": [
+        {
+            "user": "Nobody",
+            "link": "",
+            "percent": 0,
+            "hz": 0,
+            "mobile": false,
+            "enjoyment": 0
+        }
+    ]
+}
