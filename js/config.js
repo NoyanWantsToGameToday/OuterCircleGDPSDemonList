@@ -163,7 +163,7 @@ export function score(rank, difficulty, percent, minPercent, list) {
     } // End of exponential portion
     
     // Set minPercent to 100 if the difficulty tier is hard tier or below
-    if (difficulty < 4) {
+    if (difficulty < -1) {
         minPercent = 100;
     }
     
