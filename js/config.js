@@ -98,6 +98,36 @@ export function score(rank, difficulty, percent, minPercent, list) {
 
                 /* Mythical Tier */
                 minScore = 87.1;
+                maxScore = 113;
+                break;
+
+            case 6:
+                /* Extreme Tier */
+                minScore = 113.9;
+                maxScore = 137;
+                break;
+
+            case 7:
+                /* Supreme Tier */
+                minScore = 137.9;
+                maxScore = 162;
+                break;
+
+            case 8:
+                /* Ethereal Tier */
+                minScore = 162.1;
+                maxScore = 186;
+                break;
+
+            case 9:
+                /* Silent Tier */
+                minScore = 186.1;
+                maxScore = 212;
+                break;
+
+            case 7:
+                /* Impossible Tier */
+                minScore = 212.1;
                 maxScore = scoreDivider;
                 break;
             default: // If none of the other cases are met, resort to this:
