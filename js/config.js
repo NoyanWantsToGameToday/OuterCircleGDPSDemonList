@@ -43,7 +43,7 @@ export function score(rank, difficulty, percent, minPercent, list) {
     const scoreDivider = 130 // The maximum score given by the linear function.
     const curveBuff = 0.4; // Increase this value to steepen the curve of the exponential
                            // function (must be greater than 0).
-    const diffDivider = 6; // The difficulty (exclusive) at which the site will stop using
+    const diffDivider = 11; // The difficulty (exclusive) at which the site will stop using
                            // the linear point system and start using the exponential one.
     // NOTE: If you change the value of diffDivider without adding/removing cases in the
     // switch statement below, it'll mess stuff up.
